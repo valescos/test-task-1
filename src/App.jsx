@@ -1,5 +1,12 @@
+import Table from "./Table/Table";
+import { TableContextProvider } from "./Table/context/TableContext";
+
 function App() {
-  return <>тест</>;
+  return (
+    <TableContextProvider>
+      <Table />
+    </TableContextProvider>
+  );
 }
 
 export default App;
