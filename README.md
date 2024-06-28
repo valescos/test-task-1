@@ -1,3 +1,10 @@
-# test-task-1
+# Таблица
+### _Тестовое задание при приёме на работу_
 
-test task for job application
+[valescos-test-task-1.netlify.app](https://valescos-test-task-1.netlify.app/)
+
+Онлайн-таблица с функционалом редактирования, добавления колонок / рядов, фильтрации и сортировки. По заданию нельзя было использовать дополнительные библиотеки для таблиц.
+
+- React
+- TailwindCSS
+- Vite
